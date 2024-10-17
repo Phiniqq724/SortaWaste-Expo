@@ -9,7 +9,7 @@ import { router } from "expo-router";
 
 const index = () => {
   const loginHandler = () => {
-    router.push("sign-in");
+    router.push("home");
   };
   return (
     <SafeAreaView className="h-screen bg-white">

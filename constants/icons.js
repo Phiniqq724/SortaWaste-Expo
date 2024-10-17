@@ -11,6 +11,11 @@ import logout from "../assets/icons/logout.png";
 import eyeHide from "../assets/icons/eye-hide.png";
 import eye from "../assets/icons/eye.png";
 import play from "../assets/icons/play.png";
+import userAlt from "../assets/icons/User_alt.png";
+import userAltActive from "../assets/icons/User_altActive.png";
+import homeActive from "../assets/icons/homeActive.png";
+import database from "../assets/icons/Database.png";
+import databaseActive from "../assets/icons/DatabaseActive.png";
 
 export default {
   play,
@@ -26,4 +31,9 @@ export default {
   logout,
   eyeHide,
   eye,
+  userAlt,
+  userAltActive,
+  homeActive,
+  database,
+  databaseActive,
 };
